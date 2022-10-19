@@ -1,4 +1,5 @@
 ## Description
+Sample NestJS (Express + TypeORM + GraphQL) application, using JWT, google-auth and local authentication
 
 ## Libs
 
